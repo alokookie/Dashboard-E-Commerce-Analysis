@@ -1,5 +1,5 @@
 streamlit
 pandas
-matplotlib==3.9.4
+matplotlib
 seaborn
 scipy
